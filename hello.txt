@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Armaan Hear
 armaan there
+=======
+hello
+>>>>>>> parent of 45f1d8d... Update hello.txt
